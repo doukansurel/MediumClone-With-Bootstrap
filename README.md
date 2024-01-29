@@ -8,5 +8,5 @@ Bootstrap kullanarak Medium Clone oluşturma
 **Bootstrap** : https://getbootstrap.com/
 
 
-![Medium](./Screeenİmage/1.png)
-![Medium](./Screeenİmage/2.png)
+![Medium](Screenİmage/1.png)
+![Medium](Screenİmage/2.png)
